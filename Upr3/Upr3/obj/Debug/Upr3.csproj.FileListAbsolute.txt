@@ -1,0 +1,25 @@
+D:\SIT1b - tsp\Upr3\Upr3\bin\Debug\Upr3.exe.config
+D:\SIT1b - tsp\Upr3\Upr3\bin\Debug\Upr3.exe
+D:\SIT1b - tsp\Upr3\Upr3\bin\Debug\Upr3.pdb
+D:\SIT1b - tsp\Upr3\Upr3\obj\Debug\Upr3.csprojResolveAssemblyReference.cache
+D:\SIT1b - tsp\Upr3\Upr3\obj\Debug\Upr3.Form1.resources
+D:\SIT1b - tsp\Upr3\Upr3\obj\Debug\Upr3.Form2.resources
+D:\SIT1b - tsp\Upr3\Upr3\obj\Debug\Upr3.Properties.Resources.resources
+D:\SIT1b - tsp\Upr3\Upr3\obj\Debug\Upr3.csproj.GenerateResource.Cache
+D:\SIT1b - tsp\Upr3\Upr3\obj\Debug\Upr3.exe
+D:\SIT1b - tsp\Upr3\Upr3\obj\Debug\Upr3.pdb
+D:\SIT1b - tsp\Upr3\Upr3\obj\Debug\Upr3.Form3.resources
+D:\SIT1b - tsp\Upr3\Upr3\obj\Debug\Upr3.Form4.resources
+E:\ТСП\pesho\Upr3\Upr3\bin\Debug\Upr3.exe.config
+E:\ТСП\pesho\Upr3\Upr3\bin\Debug\Upr3.exe
+E:\ТСП\pesho\Upr3\Upr3\bin\Debug\Upr3.pdb
+E:\ТСП\pesho\Upr3\Upr3\obj\Debug\Upr3.csprojAssemblyReference.cache
+E:\ТСП\pesho\Upr3\Upr3\obj\Debug\Upr3.Form1.resources
+E:\ТСП\pesho\Upr3\Upr3\obj\Debug\Upr3.Form2.resources
+E:\ТСП\pesho\Upr3\Upr3\obj\Debug\Upr3.Form3.resources
+E:\ТСП\pesho\Upr3\Upr3\obj\Debug\Upr3.Form4.resources
+E:\ТСП\pesho\Upr3\Upr3\obj\Debug\Upr3.Properties.Resources.resources
+E:\ТСП\pesho\Upr3\Upr3\obj\Debug\Upr3.csproj.GenerateResource.cache
+E:\ТСП\pesho\Upr3\Upr3\obj\Debug\Upr3.csproj.CoreCompileInputs.cache
+E:\ТСП\pesho\Upr3\Upr3\obj\Debug\Upr3.exe
+E:\ТСП\pesho\Upr3\Upr3\obj\Debug\Upr3.pdb
