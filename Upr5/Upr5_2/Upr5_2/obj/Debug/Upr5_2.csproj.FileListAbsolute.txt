@@ -1,0 +1,10 @@
+D:\3 курс\TSP\Upr5\Upr5_2\Upr5_2\bin\Debug\Upr5_2.exe.config
+D:\3 курс\TSP\Upr5\Upr5_2\Upr5_2\bin\Debug\Upr5_2.exe
+D:\3 курс\TSP\Upr5\Upr5_2\Upr5_2\bin\Debug\Upr5_2.pdb
+D:\3 курс\TSP\Upr5\Upr5_2\Upr5_2\obj\Debug\Upr5_2.csprojAssemblyReference.cache
+D:\3 курс\TSP\Upr5\Upr5_2\Upr5_2\obj\Debug\Upr5_2.Form1.resources
+D:\3 курс\TSP\Upr5\Upr5_2\Upr5_2\obj\Debug\Upr5_2.Properties.Resources.resources
+D:\3 курс\TSP\Upr5\Upr5_2\Upr5_2\obj\Debug\Upr5_2.csproj.GenerateResource.cache
+D:\3 курс\TSP\Upr5\Upr5_2\Upr5_2\obj\Debug\Upr5_2.csproj.CoreCompileInputs.cache
+D:\3 курс\TSP\Upr5\Upr5_2\Upr5_2\obj\Debug\Upr5_2.exe
+D:\3 курс\TSP\Upr5\Upr5_2\Upr5_2\obj\Debug\Upr5_2.pdb
