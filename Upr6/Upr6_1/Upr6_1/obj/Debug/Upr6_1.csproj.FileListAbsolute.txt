@@ -1,0 +1,20 @@
+D:\SIT1b - tsp\Upr6_1\Upr6_1\bin\Debug\Upr6_1.exe.config
+D:\SIT1b - tsp\Upr6_1\Upr6_1\bin\Debug\Upr6_1.exe
+D:\SIT1b - tsp\Upr6_1\Upr6_1\bin\Debug\Upr6_1.pdb
+D:\SIT1b - tsp\Upr6_1\Upr6_1\obj\Debug\Upr6_1.csprojResolveAssemblyReference.cache
+D:\SIT1b - tsp\Upr6_1\Upr6_1\obj\Debug\Upr6_1.Form1.resources
+D:\SIT1b - tsp\Upr6_1\Upr6_1\obj\Debug\Upr6_1.Form2.resources
+D:\SIT1b - tsp\Upr6_1\Upr6_1\obj\Debug\Upr6_1.Properties.Resources.resources
+D:\SIT1b - tsp\Upr6_1\Upr6_1\obj\Debug\Upr6_1.csproj.GenerateResource.Cache
+D:\SIT1b - tsp\Upr6_1\Upr6_1\obj\Debug\Upr6_1.exe
+D:\SIT1b - tsp\Upr6_1\Upr6_1\obj\Debug\Upr6_1.pdb
+D:\Downloads\students life\tsp\Upr6\Upr6_1\Upr6_1\bin\Debug\Upr6_1.exe.config
+D:\Downloads\students life\tsp\Upr6\Upr6_1\Upr6_1\bin\Debug\Upr6_1.exe
+D:\Downloads\students life\tsp\Upr6\Upr6_1\Upr6_1\bin\Debug\Upr6_1.pdb
+D:\Downloads\students life\tsp\Upr6\Upr6_1\Upr6_1\obj\Debug\Upr6_1.csprojAssemblyReference.cache
+D:\Downloads\students life\tsp\Upr6\Upr6_1\Upr6_1\obj\Debug\Upr6_1.Form1.resources
+D:\Downloads\students life\tsp\Upr6\Upr6_1\Upr6_1\obj\Debug\Upr6_1.Form2.resources
+D:\Downloads\students life\tsp\Upr6\Upr6_1\Upr6_1\obj\Debug\Upr6_1.Properties.Resources.resources
+D:\Downloads\students life\tsp\Upr6\Upr6_1\Upr6_1\obj\Debug\Upr6_1.csproj.GenerateResource.cache
+D:\Downloads\students life\tsp\Upr6\Upr6_1\Upr6_1\obj\Debug\Upr6_1.exe
+D:\Downloads\students life\tsp\Upr6\Upr6_1\Upr6_1\obj\Debug\Upr6_1.pdb

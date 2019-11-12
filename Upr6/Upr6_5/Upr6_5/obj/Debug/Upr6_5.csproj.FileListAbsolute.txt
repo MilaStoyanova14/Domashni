@@ -1,0 +1,9 @@
+D:\Downloads\students life\tsp\Upr6\Upr6_5\Upr6_5\bin\Debug\Upr6_5.exe.config
+D:\Downloads\students life\tsp\Upr6\Upr6_5\Upr6_5\bin\Debug\Upr6_5.exe
+D:\Downloads\students life\tsp\Upr6\Upr6_5\Upr6_5\bin\Debug\Upr6_5.pdb
+D:\Downloads\students life\tsp\Upr6\Upr6_5\Upr6_5\obj\Debug\Upr6_5.csprojAssemblyReference.cache
+D:\Downloads\students life\tsp\Upr6\Upr6_5\Upr6_5\obj\Debug\Upr6_5.Form1.resources
+D:\Downloads\students life\tsp\Upr6\Upr6_5\Upr6_5\obj\Debug\Upr6_5.Properties.Resources.resources
+D:\Downloads\students life\tsp\Upr6\Upr6_5\Upr6_5\obj\Debug\Upr6_5.csproj.GenerateResource.cache
+D:\Downloads\students life\tsp\Upr6\Upr6_5\Upr6_5\obj\Debug\Upr6_5.exe
+D:\Downloads\students life\tsp\Upr6\Upr6_5\Upr6_5\obj\Debug\Upr6_5.pdb
