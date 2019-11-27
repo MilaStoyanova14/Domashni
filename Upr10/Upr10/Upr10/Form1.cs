@@ -21,9 +21,15 @@ namespace Upr10
         public Form1()
         {
             InitializeComponent();
+            Image img = Image.FromFile("BabyYoda.png");
+            pictureBox1.Image = img;
+            Image img2 = Image.FromFile("DarthVader.png");
+            pictureBox2.Image = img2;
+
             BabyYodaX = 1; DarthVaderX = 1;
             pictureBox1.Left = BabyYodaX;
             pictureBox2.Left = DarthVaderX;
+
             label1.Text = BYwins.ToString();
             label2.Text = DVwins.ToString();
 
